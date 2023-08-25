@@ -16,3 +16,4 @@ The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user
 - Configure the SMTP settings for email verification in `config.php`
 - Start your local server
 - Access the project in your web browser: `http://localhost/Secure-Remote-Voting-System`
+3.Finally the results will be declared by the Admin.
