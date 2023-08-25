@@ -1,6 +1,6 @@
 # secure-voting-system
 Revolutionize the voting process by enabling secure and convenient remote voting. This project implements an OTP (One-Time Password) system to verify the voter's identity through secure mail exchange using SMTP. 
-The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user-friendly interface is designed for casting votes and checking results.finally results will be declared by the admin.
+The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user-friendly interface is designed for casting votes and checking results.Finally results will be declared by the admin.
 
 1.Features
 - Secure and convenient remote voting
