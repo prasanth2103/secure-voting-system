@@ -9,7 +9,7 @@ The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user
 - Real-time result checking
 - Two Saperate Interfaces for both Admin and User
 
-2.Installation
+2.Installation & Execution
 - Clone the repository: `git clone https://github.com/your-username/Secure-Remote-Voting-System.git`
 - Navigate to the project directory: `cd Secure-Remote-Voting-System`
 - Set up your local server environment (e.g., XAMPP)
