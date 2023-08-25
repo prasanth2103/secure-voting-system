@@ -11,8 +11,8 @@ The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user
 2.Installation
 - Clone the repository: `git clone https://github.com/your-username/Secure-Remote-Voting-System.git`
 - Navigate to the project directory: `cd Secure-Remote-Voting-System`
--Set up your local server environment (e.g., XAMPP)
--Import the provided SQL database schema
--Configure the SMTP settings for email verification in `config.php`
--Start your local server
--Access the project in your web browser: `http://localhost/Secure-Remote-Voting-System`
+- Set up your local server environment (e.g., XAMPP)
+- Import the provided SQL database schema
+- Configure the SMTP settings for email verification in `config.php`
+- Start your local server
+- Access the project in your web browser: `http://localhost/Secure-Remote-Voting-System`
