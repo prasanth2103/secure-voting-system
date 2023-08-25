@@ -7,6 +7,7 @@ The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user
 - OTP system for voter identity verification
 - User-friendly interface for casting votes
 - Real-time result checking
+- Two Saperate Interfaces for both Admin and User
 
 2.Installation
 - Clone the repository: `git clone https://github.com/your-username/Secure-Remote-Voting-System.git`
@@ -16,4 +17,5 @@ The system utilizes HTML, CSS, Bootstrap, MySQL Database, PHP, and XAMPP. A user
 - Configure the SMTP settings for email verification in `config.php`
 - Start your local server
 - Access the project in your web browser: `http://localhost/Secure-Remote-Voting-System`
+  
 3.Finally the results will be declared by the Admin.
